@@ -1,6 +1,5 @@
 package com.sehgal.ipldashboard.config;
 
-import com.sehgal.ipldashboard.Match;
 import org.slf4j.Logger;
 import org.slf4j.LoggerFactory;
 import org.springframework.batch.core.BatchStatus;

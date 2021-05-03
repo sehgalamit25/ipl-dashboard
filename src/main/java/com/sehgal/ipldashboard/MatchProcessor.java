@@ -1,6 +1,7 @@
 package com.sehgal.ipldashboard;
 
 import com.sehgal.ipldashboard.data.MatchInput;
+import com.sehgal.ipldashboard.model.Match;
 import org.slf4j.Logger;
 import org.slf4j.LoggerFactory;
 

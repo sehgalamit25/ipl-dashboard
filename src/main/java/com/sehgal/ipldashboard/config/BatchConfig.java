@@ -1,6 +1,6 @@
 package com.sehgal.ipldashboard.config;
 
-import com.sehgal.ipldashboard.Match;
+import com.sehgal.ipldashboard.model.Match;
 import com.sehgal.ipldashboard.MatchProcessor;
 import com.sehgal.ipldashboard.data.MatchInput;
 import org.springframework.batch.core.Job;

@@ -1,4 +1,4 @@
-package com.sehgal.ipldashboard;
+package com.sehgal.ipldashboard.model;
 
 import lombok.Data;
 
